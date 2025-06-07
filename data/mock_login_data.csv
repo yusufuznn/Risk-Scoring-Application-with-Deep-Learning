@@ -1,0 +1,31 @@
+UserId,MFAMethod,CreatedAt,ClientIP,Application,Browser,OS,Unit,Title
+U10000,OTP,2025-05-05 12:15:14,10.132.141.51,CRM,Chrome,Windows 10,Bilgi İşlem,Takım Lideri
+U10000,SMS,2025-05-17 09:13:14,10.132.141.51,CRM,Firefox,macOS,Bilgi İşlem,Takım Lideri
+U10000,SMS,2025-05-19 14:14:28,10.132.141.51,CRM,Firefox,Windows 10,Bilgi İşlem,Takım Lideri
+U10001,SMS,2025-05-25 12:09:13,10.233.65.33,CRM,Chrome,Windows 10,İK,Yönetici
+U10001,SMS,2025-05-26 13:38:16,10.233.65.33,HR System,Chrome,Linux,İK,Yönetici
+U10001,OTP,2025-05-10 14:05:35,10.233.65.33,HR System,Chrome,macOS,İK,Yönetici
+U10002,SMS,2025-05-28 23:18:05,192.168.89.61,CRM,Safari,macOS,Bilgi İşlem,Uzman
+U10002,SMS,2025-05-12 15:40:53,192.168.165.206,HR System,Chrome,Windows 10,Bilgi İşlem,Uzman
+U10002,SMS,2025-05-20 18:41:04,192.168.165.206,CRM,Chrome,Windows 10,Bilgi İşlem,Uzman
+U10003,OTP,2025-05-02 08:14:52,172.17.80.62,HR System,Chrome,Windows 10,Satış,Yönetici
+U10003,SMS,2025-05-11 20:56:45,172.18.174.174,HR System,Safari,Linux,Satış,Yönetici
+U10003,SMS,2025-05-05 15:09:16,172.17.80.62,HR System,Firefox,Windows 10,Satış,Yönetici
+U10004,SMS,2025-05-16 11:08:32,172.20.15.195,CRM,Edge,Windows 10,İK,Yönetici
+U10004,SMS,2025-05-14 10:50:43,172.20.15.195,HR System,Chrome,Linux,İK,Yönetici
+U10004,Mail,2025-05-28 16:16:35,172.20.15.195,CRM,Firefox,Windows 10,İK,Yönetici
+U10005,SMS,2025-05-06 09:18:27,172.19.225.250,HR System,Safari,macOS,Finans,Yönetici
+U10005,SMS,2025-05-28 16:58:06,172.19.225.250,CRM,Chrome,macOS,Finans,Yönetici
+U10005,Mail,2025-05-17 16:49:59,172.19.225.250,HR System,Chrome,Windows 10,Finans,Yönetici
+U10006,Mail,2025-05-19 11:03:15,10.65.76.68,CRM,Firefox,macOS,Finans,Yönetici
+U10006,SMS,2025-05-05 16:49:08,10.65.76.68,CRM,Chrome,macOS,Finans,Yönetici
+U10006,OTP,2025-05-18 14:13:59,10.65.76.68,CRM,Firefox,Windows 10,Finans,Yönetici
+U10007,SMS,2025-05-08 16:28:07,172.23.11.235,HR System,Chrome,Windows 10,Finans,Stajyer
+U10007,OTP,2025-05-03 17:14:00,172.23.11.235,CRM,Chrome,Linux,Finans,Stajyer
+U10007,SMS,2025-05-08 13:04:32,172.23.11.235,HR System,Chrome,Windows 10,Finans,Stajyer
+U10008,SMS,2025-05-07 15:51:26,192.168.104.194,HR System,Chrome,Windows 10,İK,Uzman
+U10008,SMS,2025-05-21 08:43:41,192.168.104.194,HR System,Firefox,macOS,İK,Uzman
+U10008,SMS,2025-05-07 09:15:12,192.168.104.194,CRM,Chrome,Windows 10,İK,Uzman
+U10009,SMS,2025-05-28 15:51:55,172.19.21.229,CRM,Firefox,Windows 10,Satış,Takım Lideri
+U10009,OTP,2025-05-25 08:05:59,172.19.21.229,CRM,Chrome,Windows 10,Satış,Takım Lideri
+U10009,OTP,2025-05-06 06:57:03,10.110.75.121,CRM,Safari,macOS,Satış,Takım Lideri
