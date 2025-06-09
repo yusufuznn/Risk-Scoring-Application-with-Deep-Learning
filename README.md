@@ -58,6 +58,10 @@ risk_skorlama_projesi/
 ## 📊 Example Screenshots
 ![Streamlit UI Example](https://user-images.githubusercontent.com/placeholder/streamlit-demo.png)
 
+![git1](https://github.com/user-attachments/assets/6f488c6f-e1db-48ae-9efe-b0f013387314)
+
+![git2](https://github.com/user-attachments/assets/9c48ae27-ae27-4da9-970c-957d07b736cc)
+
 ---
 
 ## ⚙️ How It Works
@@ -77,13 +81,9 @@ risk_skorlama_projesi/
 
 ---
 
-## 📄 License
-MIT
-
----
 
 ## 🙋‍♂️ Author & Contact
-- Developed by [Your Name]
-- [your.email@example.com]
+- Developed by Yusuf Uzun
+- yusfuzn@hotmail.com
 
 Feel free to contribute, open issues, or suggest improvements!
