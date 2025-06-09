@@ -4,7 +4,7 @@ from src.model import prepare_data, train_model, evaluate_model
 
 def main():
     print("Mock veri üretiliyor...")
-    df = generate_mock_data(user_count=10, log_per_user=3, save_path="data/mock_login_data.csv")
+    df = generate_mock_data(user_count=1000, log_per_user=3, save_path="data/mock_login_data.csv")
     print(f"Veri seti boyutu: {df.shape}")
 
     print("Risk skorları hesaplanıyor...")
