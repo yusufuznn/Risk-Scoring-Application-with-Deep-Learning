@@ -55,8 +55,7 @@ risk_skorlama_projesi/
 
 ---
 
-## 📊 Example Screenshots
-![Streamlit UI Example](https://user-images.githubusercontent.com/placeholder/streamlit-demo.png)
+## 📊 Screenshots
 
 ![git1](https://github.com/user-attachments/assets/6f488c6f-e1db-48ae-9efe-b0f013387314)
 
