@@ -16,12 +16,10 @@ This project aims to develop a deep learning-based system that calculates a real
 risk_skorlama_projesi/
 │
 ├── data/                # Mock/generated datasets
-├── notebooks/           # Jupyter notebooks for EDA & visualization
 ├── src/                 # Source code modules
 │   ├── data_generation.py   # Mock data generation
 │   ├── labeling.py          # Risk labeling & scoring
 │   ├── model.py             # Model training & evaluation
-│   └── utils.py             # Utility functions
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
 ├── main.py              # Main pipeline script
