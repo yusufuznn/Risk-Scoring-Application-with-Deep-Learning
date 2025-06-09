@@ -118,9 +118,6 @@ if st.sidebar.button("🎯 Risk Skoru Hesapla"):
         </div>
     """, unsafe_allow_html=True)
 
-    # İsteğe bağlı: görsel bar (ekstra)
-    st.progress(min(risk_score / 100, 1.0))
-
 # Metrikler
 col1, col2 = st.columns(2)
 with col1:
